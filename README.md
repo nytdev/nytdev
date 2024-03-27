@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anyone that was willing to help me learn latest techs. that will broaden and improve my skillset.
 - 📫 How to reach me ... email me at ultraanton639@gmail.com
 - 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... I am unemployed and looking for any job which is relevant to my program.
+- ⚡ Fun fact: ... I am looking for any opportunities for my program.
 
 <!---
 nytdev/nytdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
